@@ -1,6 +1,6 @@
 # Codeforces Virtual Contest Internal Rank Calculator
 
-![GitHub License](https://img.shields.io/github/license/yourusername/Codeforces_Virtual_Contest_Internal_Rank_Calculator)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Streamlit Version](https://img.shields.io/badge/streamlit-0.89.0-blue)
 ![Pandas Version](https://img.shields.io/badge/pandas-1.3.3-blue)
