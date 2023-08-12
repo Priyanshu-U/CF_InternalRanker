@@ -15,6 +15,8 @@ The Codeforces Virtual Contest Internal Rank Calculator is a Python program that
 - **Interactive Visualization**: The generated rank list is displayed using a Streamlit web application, making it easy to view and share with others.
 - **Export Options**: You can export the generated rank list as a CSV file for further analysis or record-keeping.
 
+## Dashboard 
+https://github.com/Priyanshu-U/Codeforces_Virtual_Contest_Internal_Rank_Calculator/assets/62770722/f2e682a7-f46a-4972-9363-756e53e53acc
 ## Installation
 
 1. Clone this repository to your local machine using:
