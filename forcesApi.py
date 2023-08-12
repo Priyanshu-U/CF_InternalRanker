@@ -17,10 +17,8 @@ def getRank(contestID, handle):
         size = len(response_row)
         if size == 0:
             return int_max
-        elif size == 1:
-            return response_row[0]['rank']
-        elif size >= 2:
-            return response_row[-1]['rank']
+        elif size >= 1:
+            return response_row[0-1]['rank']
 
     else:
         print("GET request failed with status code:", response.status_code)
