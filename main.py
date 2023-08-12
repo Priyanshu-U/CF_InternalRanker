@@ -17,7 +17,8 @@ def export_or_append_csv(data, filename):
 
 
 # Streamlit app
-st.title("Chose the contest to produce the rank list: ")
+st.title("Competitive Coding - IIIT Lucknow")
+st.header("Chose the contest to produce the rank list: ")
 
 # Dropdown to select ID
 selected_id = st.selectbox("Select ID", list(forcesApi.cid_data.keys()))
