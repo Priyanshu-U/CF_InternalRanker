@@ -21,10 +21,10 @@ https://github.com/Priyanshu-U/Codeforces_Virtual_Contest_Internal_Rank_Calculat
 
 1. Clone this repository to your local machine using:
    
-`git clone https://github.com/yourusername/Codeforces_Virtual_Contest_Internal_Rank_Calculator.git`
+`git clone https://github.com/yourusername/CF_InternalRanker.git`
 
 2. Navigate to the project directory:
-`cd Codeforces_Virtual_Contest_Internal_Rank_Calculator`
+`cd CF_InternalRanker`
 
 3. Install the required Python packages using pip:
 `pip install -r requirements.txt`
